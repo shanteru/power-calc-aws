@@ -1,0 +1,5 @@
+// Can use this file to store any temporary links
+
+API GATEWAY LINK: 
+
+DYNAMODB ARN : 
